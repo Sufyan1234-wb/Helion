@@ -642,8 +642,10 @@
 }
 
 .work-box1 p {
-    margin-top: 34px;
     font-size: 20px;
+    width: 80%;
+    margin: auto;
+    margin-top: 34px;
 }
 
 .work-box1-icon {
@@ -678,7 +680,7 @@
 
 .work-box1-img {
     height: 10vh;
-    width: 20%;
+    width: 120px;
     /* border: 1px solid black; */
     margin: auto;
     margin-top: 34px;
@@ -2350,10 +2352,11 @@
         margin: auto;
         /* border: 1px solid silver; */
         margin-top: 23px;
+        padding-top: 12px;
     }
 
     .work-box1-img {
-        width: 150px;
+        width: 100px;
     }
 
     #images {
